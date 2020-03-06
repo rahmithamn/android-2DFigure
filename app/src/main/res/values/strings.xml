@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">2D Figure</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga_siku_siku">Segitiga Siku Siku</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="keliling">Keliling</string>
+    <string name="luas">Luas</string>
+    <string name="share">share</string>
+    <string name="hitung_segitiga">hitung</string>
+    <string name="hitung">hitung</string>
+    <string name="nama">Rahmitha Mahrul Nisa</string>
+    <string name="kelas">D3RPLA-42-04</string>
+    <string name="nim">6706184100</string>
+</resources>
